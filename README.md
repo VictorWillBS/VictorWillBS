@@ -5,7 +5,7 @@
 - ✍🏾 Studding: DevOps || POO
 
 
-<a href="https://www.adamalston.com/"><img width="180px" height="137px" src="https://github-readme-stats.vercel.app/api?username=VictorWillBS&&theme=dracula" /><!-- wi*quL3fcV --><img width="180px" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorWillBS&theme=dracula" /></a>
+<a href="https://www.adamalston.com/"><img width="300px" height="137px" src="https://github-readme-stats.vercel.app/api?username=VictorWillBS&&theme=synthwave" /><!-- wi*quL3fcV --><img width="300px" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorWillBS&theme=synthwave" /></a>
 <!--
 **VictorWillBS/VictorWillBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
