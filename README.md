@@ -1,7 +1,7 @@
 ### Hi, Wellcomme. I'm Victor 👋
 - 🖥 Fullstack Software Engineer
 - 🌱 Plants and Lil kitties Lover
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he / his
 - ✍🏾 Studding: DevOps || POO
 
 ### My Favorites Technologies ⭐️
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </div>
 
-<a href="https://github.com/VictorWillBS">
+<a margin-top:10px href="https://github.com/VictorWillBS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorWillBS&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
   <img margin-left="10px"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorWillBS&layout=compact&langs_count=7&theme=synthwave" />
 </a>
