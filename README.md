@@ -1,7 +1,7 @@
 ### Hi, Wellcomme. I'm Victor 👋
 - 🖥 Fullstack Software Engineer
 - 🌱 Plants and Lil kitties Lover
-- 😄 Pronouns: he / his
+- 😄 Pronouns:  he / him
 - ✍🏾 Studding: DevOps || POO
 
 ### My Favorites Technologies ⭐️
@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
 #### DataBase
@@ -29,9 +31,17 @@
 </div>
 
 #### DevOps
-<div  margin-bottom:"20px" display:flex justify-content:start aling-itens:center>
+<div display:flex justify-content:start aling-itens:center>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</div>
+
+#### Deploy
+<div display:flex justify-content:start aling-itens:center>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
 
 ### My Stats 📊
