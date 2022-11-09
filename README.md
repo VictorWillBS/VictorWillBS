@@ -52,3 +52,5 @@
     <img margin-left="10px"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorWillBS&layout=compact&langs_count=7&theme=synthwave" />
   </a>
 </div>
+## Entre em contato comigo pelo Linkedin: encurtador.com.br/pCST6
+## Entre em contato comigo pelo Email: vitorwbarros@gmail.com
