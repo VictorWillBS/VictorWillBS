@@ -56,7 +56,7 @@
 #### Entre em contato comigo pelo Linkedin: www.linkedin.com/in/victorwbs/
 
 
-#### Entre em contato comigo pelo Email: vitorwbarros@gmail.com
+#### Entre em contato comigo pelo Email: victorwbarros@gmail.com
 
 
 
