@@ -53,10 +53,9 @@
   </a>
 </div>
 
-  ## Entre em contato comigo pelo Linkedin: encurtador.com.br/pCST6
+#### Entre em contato comigo pelo Linkedin: encurtador.com.br/pCST6
 
-
- #### Entre em contato comigo pelo Email: vitorwbarros@gmail.com
+#### Entre em contato comigo pelo Email: vitorwbarros@gmail.com
 
 
 
