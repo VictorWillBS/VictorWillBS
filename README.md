@@ -53,7 +53,7 @@
   </a>
 </div>
 
-#### Entre em contato comigo pelo Linkedin: https://www.linkedin.com/in/victorwbs/
+#### Entre em contato comigo pelo Linkedin: www.linkedin.com/in/victorwbs/
 
 
 #### Entre em contato comigo pelo Email: vitorwbarros@gmail.com
