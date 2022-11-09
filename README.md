@@ -53,10 +53,10 @@
   </a>
 </div>
 
-#### Entre em contato comigo pelo Linkedin:
-<a href="https://www.linkedin.com/in/victorwbs/">
+#### Entre em contato comigo pelo Linkedin:<span><a href="https://www.linkedin.com/in/victorwbs/">
 linkedin.com/in/victorwbs/
-</a>
+</a></span>
+
 
 #### Entre em contato comigo pelo Email: vitorwbarros@gmail.com
 
