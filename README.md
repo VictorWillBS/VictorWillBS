@@ -53,7 +53,10 @@
   </a>
 </div>
 
-#### Entre em contato comigo pelo Linkedin: encurtador.com.br/pCST6
+#### Entre em contato comigo pelo Linkedin:
+<a href="https://www.linkedin.com/in/victorwbs/">
+linkedin.com/in/victorwbs/
+</a>
 
 #### Entre em contato comigo pelo Email: vitorwbarros@gmail.com
 
