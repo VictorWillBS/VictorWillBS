@@ -2,7 +2,7 @@
 -  🖥  Fullstack Web Developer
 -  🌱  Plants and Lil kitties Lover
 -  😄  Pronouns:  he / him
--  ✍🏾  Studding: Laravel + PHP
+-  ✍🏾  Studding: Software Engineer
 -  👨‍💻  Working: Arkama Intermediações as Front-end Developer
 
 ### My Favorites Technologies ⭐️
