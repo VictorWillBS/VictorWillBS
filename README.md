@@ -3,7 +3,6 @@
 -  🌱  Plants and Lil kitties Lover
 -  😄  Pronouns:  he / him
 -  ✍🏾  Studding: Software Engineer
--  👨‍💻  Working: Arkama Intermediações as Front-end Developer
 
 ### My Favorites Technologies ⭐️
 #### Front-End
