@@ -1,6 +1,6 @@
 ### Hi, Wellcomme. I'm Victor 👋
 -  🖥  Fullstack Web Developer
--  🌱  Plants and Lil kitties Lover
+-  🌱  Plants and kitties Lover
 -  😄  Pronouns:  he / him
 -  ✍🏾  Studding: Software Engineer
 
