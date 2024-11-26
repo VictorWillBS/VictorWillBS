@@ -59,10 +59,10 @@
   </a>
 </div>
 
-### My Contacts:
+### My Contacts 💬
 
-#### Linkedin: www.linkedin.com/in/victorwbs/
-#### E-mail: victorwbarros.dev@gmail.com
+#### 💼 Linkedin: www.linkedin.com/in/victorwbs/
+#### ✉️ E-mail: victorwbarros.dev@gmail.com
 
 
 
