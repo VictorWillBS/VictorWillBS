@@ -1,4 +1,4 @@
-### Hi, Wellcomme. I'm Victor 👋
+### Hi, Wellcome. I'm Victor 👋
 -  🖥  Fullstack Web Developer
 -  🌱  Plants and kitties Lover
 -  😄  Pronouns:  he / him
