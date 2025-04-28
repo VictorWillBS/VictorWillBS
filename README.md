@@ -2,7 +2,7 @@
 -  🖥  Fullstack Web Developer
 -  🌱  Plants and kitties Lover
 -  😄  Pronouns:  he / him
--  ✍🏾  Studding: Software Engineer
+-  ✍🏾  Studding: Software Engineering
 
 ### My Favorites Technologies ⭐️
 #### Front-End
